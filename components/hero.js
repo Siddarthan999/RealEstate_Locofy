@@ -32,7 +32,7 @@ const Hero = () => {
   const router = useRouter();
 
   const onSearchCTAClick = useCallback(() => {
-    router.push("/");
+    router.push("/properties");
   }, [router]);
 
   return (
@@ -43,9 +43,7 @@ const Hero = () => {
             Find Your Dream Home
           </div>
           <div className="self-stretch relative text-xl leading-[28px] font-body-regular-600 text-primary-50">
-            Vestibulum ante ipsum primis in faucibus orci luctus et ultrices
-            posuere cubilia curae; Proin sodales ultrices nulla blandit
-            volutpat.
+            Discover your dream property with our extensive range of listings and expert guidance on our premier real estate website.
           </div>
         </div>
         <div className="self-stretch flex flex-col items-center justify-start gap-[17px] text-left text-base text-primary-700 font-body-regular-600">

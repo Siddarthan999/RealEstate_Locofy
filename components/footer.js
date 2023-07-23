@@ -37,11 +37,10 @@ const Footer = ({
             </div>
             <div className="relative leading-[24px]">Call : +123 400 123</div>
             <div className="relative leading-[24px] flex items-end w-[312px]">
-              Praesent nulla massa, hendrerit vestibulum gravida in, feugiat
-              auctor felis.
+              Chennai,Tamil Nadu, India
             </div>
             <div className="relative leading-[24px] text-gray-700">
-              Email: example@mail.com
+              Email: Siddarthan999@gmail.com
             </div>
           </div>
           <div className="w-[304px] flex flex-row items-center justify-between">
